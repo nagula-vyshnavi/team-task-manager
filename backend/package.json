@@ -1,6 +1,7 @@
 {
   "name": "team-task-backend",
   "version": "1.0.0",
+ 
   "description": "Task Manager Backend",
   "main": "server.js",
   "scripts": {
