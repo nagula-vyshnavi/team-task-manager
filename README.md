@@ -10,7 +10,7 @@ projects and tasks efficiently.
 
 | Service | URL |
 |---------|-----|
-| **Frontend** | https://your-app.vercel.app |
+| **Frontend** | https://team-task-manager-reposit-opal.vercel.app/login |
 | **Backend API** | https://your-backend.onrender.com |
 
 ---
