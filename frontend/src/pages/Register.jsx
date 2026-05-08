@@ -2,7 +2,7 @@ import { useState } from "react";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 
-const API = 'https://team-task-backend-2ply.onrender.com';
+const API = "https://team-task-manager-reposit.onrender.com";
 
 export default function Register() {
   const [form, setForm] = useState({
