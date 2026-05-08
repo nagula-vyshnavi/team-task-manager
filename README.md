@@ -11,7 +11,7 @@ projects and tasks efficiently.
 | Service | URL |
 |---------|-----|
 | **Frontend** | https://team-task-manager-reposit-opal.vercel.app/login |
-| **Backend API** | https://your-backend.onrender.com |
+| **Backend API** | https://team-task-manager-reposit.onrender.com/ |
 
 ---
 
